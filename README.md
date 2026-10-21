@@ -20,8 +20,8 @@ A local Kubernetes monitoring and logging project using Prometheus, Grafana, Lok
 
 ## Project Structure
 ```text
-├── dashboards/
-│   └── kubernetes-monitoring.json
+├── Grafana dashboard export.json
+│   └── 
 ├── docs/
 │   └── alerts.md
 ├── helm/
